@@ -1,2 +1,2 @@
 # Keith
-Finds all Keith numbers
+Finds [https://en.wikipedia.org/wiki/Keith_number Keith numbers].  
